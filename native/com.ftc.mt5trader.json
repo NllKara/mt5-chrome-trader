@@ -1,0 +1,7 @@
+{
+  "name": "com.ftc.mt5trader",
+  "description": "FTC MT5 Chrome Trader",
+  "path": "C:\\MT5ChromeTrader\\native\\launch.bat",
+  "type": "stdio",
+  "allowed_origins": ["chrome-extension://YOUR_EXTENSION_ID/"]
+}
